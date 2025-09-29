@@ -59,4 +59,4 @@ Progress is evaluated in person during the scheduled classes. The awarded points
 
 - Paweł Bielski: pawbiels@pg.edu.pl, room 318, Institute of Naval Architecture building,
 
-- Krzysztof Wołoszyk: krzwolos@pg.edu.pl, room 322, Institute of Naval Architecture building.
+- Krzysztof Wołoszyk: krzwolos@pg.edu.pl, room 323, Institute of Naval Architecture building.
