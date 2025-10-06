@@ -1,6 +1,8 @@
 # Advanced Problems of Structural Mechanics: **Project**
 
-- Author: Paweł Bielski, 29.09.2025
+## General information
+
+- Author: Paweł Bielski, version 06.10.2025
 - eLearning course: [Advanced problems of structural mechanics](https://enauczanie.pg.edu.pl/2025/course/view.php?id=684)
 - Field of study: Naval Architecture and Offshore Structures, Gdańsk University of Technology
 - Specialisation: Design of Ships and Ocean Engineering Equipment (WIMiO), second-cycle studies, Full-time studies, 2025/2026 - winter
@@ -63,5 +65,9 @@ Progress is evaluated in person during the scheduled classes. The awarded points
 - Paweł Bielski: pawbiels@pg.edu.pl, room 318, Institute of Naval Architecture building,
 
 - Krzysztof Wołoszyk: krzwolos@pg.edu.pl, room 323, Institute of Naval Architecture building.
+
+- Discord server invitation link, group 1: (https://discord.gg/PWnuq4aY7v)[https://discord.gg/PWnuq4aY7v]
+
+ - Discord server invitation link, group 2: (https://discord.gg/NKZActYVUS)[https://discord.gg/NKZActYVUS]
 
 <!-- ## [Rules](./docs/ProjectRules.html) -->
