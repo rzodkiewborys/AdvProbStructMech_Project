@@ -64,10 +64,10 @@ Progress is evaluated in person during the scheduled classes. The awarded points
 
 - Paweł Bielski: pawbiels@pg.edu.pl, room 318, Institute of Naval Architecture building,
 
-- Krzysztof Wołoszyk: krzwolos@pg.edu.pl, room 323, Institute of Naval Architecture building.
+- Krzysztof Wołoszyk: krzwolos@pg.edu.pl, room 323, Institute of Naval Architecture building,
 
-- Discord server invitation link, group 1: (https://discord.gg/PWnuq4aY7v)[https://discord.gg/PWnuq4aY7v]
+- Discord server invitation link: [group 1](https://discord.gg/PWnuq4aY7v),
 
- - Discord server invitation link, group 2: (https://discord.gg/NKZActYVUS)[https://discord.gg/NKZActYVUS]
+- Discord server invitation link: [group 2](https://discord.gg/NKZActYVUS).
 
 <!-- ## [Rules](./docs/ProjectRules.html) -->
