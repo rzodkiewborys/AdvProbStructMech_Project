@@ -48,16 +48,17 @@ The final presentation should include:
 4. Results and/or example computations,
 5. A discussion on the applicability of the results or tool.
 
-The results will be publicly presented and discussed during the final meeting.
+The results will be publicly presented and discussed during the final meeting week. The final presentations will be held:
+
+1. On January 26th (Monday) for Group 1, with January 28th as a secondary term if needed,
+2. On January 29th (Thursday) for Group 2, with January 30th as a secondary term if needed.
 
 ## Grading system
 
 A maximum of 70 points can be obtained for the project part of the subject:
 
 - **25 pts** --- Mid-semester evaluation of the project progress,
-
 - **25 pts** --- Successful completion of the project,
-
 - **20 pts** --- Final abstract and presentation of the project results.
 
 Progress is evaluated in person during the scheduled classes. The awarded points reflect the student’s progress at the given date and are generally not subject to revision.
@@ -65,11 +66,8 @@ Progress is evaluated in person during the scheduled classes. The awarded points
 ## Contact information
 
 - Paweł Bielski: pawbiels@pg.edu.pl, room 318, Institute of Naval Architecture building,
-
 - Krzysztof Wołoszyk: krzwolos@pg.edu.pl, room 323, Institute of Naval Architecture building,
-
 - Discord server invitation link: [group 1](https://discord.gg/PWnuq4aY7v),
-
 - Discord server invitation link: [group 2](https://discord.gg/NKZActYVUS).
 
 <!-- ## [Rules](./docs/ProjectRules.html) -->
