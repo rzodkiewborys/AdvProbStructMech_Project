@@ -28,6 +28,8 @@ KW: Krzysztof Wołoszyk
 
 ## Course design
 
+### Initial idea
+
 The course is held in an open format. Each student is encouraged to propose an individual project topic. The project should involve either (1) solving an advanced structural mechanics problem, or (2) developing a custom computational tool. The topic is not limited to any specific software. The task may be addressed using an FEM program (e.g. Femap), a programming language (Python, MATLAB, Scilab), or any other appropriate tool.
 
 During the first week, students are expected to present a project plan consisting of:
@@ -35,9 +37,21 @@ During the first week, students are expected to present a project plan consistin
 - the chosen software tools,
 - criteria defining the final outcome.
 
-The plan may be modified as the project develops. For the mid-semester evaluation, an updated version of the plan should be presented and approved by the teacher. The mid-semester assessment is conducted as public presentations of progress and open discussions, lasting approximately 15 minutes per person.
+The plan may be modified as the project develops. 
 
-By the end of the semester, the concluding presentation should be prepared, along with a short report in the form of an extended conference abstract. The extended abstract should fit on two A4 pages, in 11-point font, approximately 500 words, plus one or two figures. An example of a conference abstract is available [here](./docs/abstract.pdf).
+### Mid-semester evaluation
+
+For the mid-semester evaluation, an updated version of the plan should be presented and approved by the teacher. The mid-semester assessment is conducted as public presentations of progress and open discussions, lasting approximately 15 minutes per person.
+
+Both the mid-semester and final presentations must include:
+- an outline,
+- slide numbering along with the total slide count on each slide,
+- maximum of 2 figures per slide,
+- minimum font size 18 for text body (also on figures/tables), 24 for titles.
+
+### Final evaluation
+
+By the end of the semester, the concluding presentation should be prepared, along with a short report in the form of an extended conference abstract. The extended abstract should fit on two A4 pages, in 11-point font, approximately 500 words, plus one or two figures. The purpose of the abstract is to summarise the project briefly. An example of a conference abstract is available [here](./docs/abstract.pdf).
 
 The final presentation should consist of:
 - a theoretical description of the problem,
@@ -45,12 +59,6 @@ The final presentation should consist of:
 - description of the methods and/or functions,
 - results and/or example computations,
 - a discussion on the applicability of the results or tool.
-
-The presentations must include:
-- an outline of the presentation,
-- slide numbering along with the total slide count on each slide,
-- maximum of 2 figures per slide,
-- minimum font size 18 for text body (also on figures/tables), 24 for titles.
 
 The results will be publicly presented and discussed during the final meeting week. The maximum presentation time is 15 minutes per person. The final presentations will be held:
 
