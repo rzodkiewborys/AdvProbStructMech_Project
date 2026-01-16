@@ -36,9 +36,11 @@ During the first week, students are expected to present a project plan consistin
 2. The chosen software tools,
 3. Criteria defining the final outcome.
 
-The plan may be modified as the project develops. For the mid-semester evaluation, an updated version of the plan should be presented and approved by the teacher.
+The plan may be modified as the project develops. For the mid-semester evaluation, an updated version of the plan should be presented and approved by the teacher. The mid-semester assessment is conducted as public presentations of progress and open discussions, lasting approximately 15 minutes per person.
 
-By the end of the semester, the final report should include:
+By the end of the semester, the concluding presentation should be prepared, along with a short report in the form of an extended conference abstract. The extended abstract should fit on two A4 pages, in 11-point font, approximately 500 words, plus one or two figures. An example of a conference abstract is available [here](./docs/abstract.pdf).
+
+The final presentation should include:
 
 1. A theoretical description of the problem,
 2. Relevant drawings,
@@ -46,17 +48,17 @@ By the end of the semester, the final report should include:
 4. Results and/or example computations,
 5. A discussion on the applicability of the results or tool.
 
-After approval by the teacher, the report must be publicly presented during the final meeting.
+The results will be publicly presented and discussed during the final meeting.
 
 ## Grading system
 
 A maximum of 70 points can be obtained for the project part of the subject:
 
-- **25 pts** --- Mid-semester evaluation of the project progress (KW),
+- **25 pts** --- Mid-semester evaluation of the project progress,
 
-- **25 pts** --- Successful completion of the project (PB),
+- **25 pts** --- Successful completion of the project,
 
-- **20 pts** --- Final presentation of the project results (KW).
+- **20 pts** --- Final abstract and presentation of the project results.
 
 Progress is evaluated in person during the scheduled classes. The awarded points reflect the student’s progress at the given date and are generally not subject to revision.
 
