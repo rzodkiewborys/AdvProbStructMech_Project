@@ -70,8 +70,8 @@ The results will be publicly presented and discussed during the final meeting we
 A maximum of 70 points can be obtained for the project part of the subject:
 
 - **25 pts** --- Mid-semester evaluation of the project progress,
-- **25 pts** --- Successful completion of the project,
-- **20 pts** --- Final abstract and presentation of the project results.
+- **20 pts** --- Extended abstract summarising the project,
+- **25 pts** --- Final presentation of the project results.
 
 Progress is evaluated in person during the scheduled classes. The awarded points reflect the student’s progress at the given date and are generally not subject to revision.
 
