@@ -31,27 +31,31 @@ KW: Krzysztof Wołoszyk
 The course is held in an open format. Each student is encouraged to propose an individual project topic. The project should involve either (1) solving an advanced structural mechanics problem, or (2) developing a custom computational tool. The topic is not limited to any specific software. The task may be addressed using an FEM program (e.g. Femap), a programming language (Python, MATLAB, Scilab), or any other appropriate tool.
 
 During the first week, students are expected to present a project plan consisting of:
-
-1. A conceptual description of the problem,
-2. The chosen software tools,
-3. Criteria defining the final outcome.
+- a conceptual description of the problem,
+- the chosen software tools,
+- criteria defining the final outcome.
 
 The plan may be modified as the project develops. For the mid-semester evaluation, an updated version of the plan should be presented and approved by the teacher. The mid-semester assessment is conducted as public presentations of progress and open discussions, lasting approximately 15 minutes per person.
 
 By the end of the semester, the concluding presentation should be prepared, along with a short report in the form of an extended conference abstract. The extended abstract should fit on two A4 pages, in 11-point font, approximately 500 words, plus one or two figures. An example of a conference abstract is available [here](./docs/abstract.pdf).
 
-The final presentation should include:
+The final presentation should consist of:
+- a theoretical description of the problem,
+- relevant drawings,
+- description of the methods and/or functions,
+- results and/or example computations,
+- a discussion on the applicability of the results or tool.
 
-1. A theoretical description of the problem,
-2. Relevant drawings,
-3. Description of the methods and/or functions,
-4. Results and/or example computations,
-5. A discussion on the applicability of the results or tool.
+The presentations must include:
+- an outline of the presentation,
+- slide numbering along with the total slide count on each slide,
+- maximum of 2 figures per slide,
+- minimum font size 18 for text body (also on figures/tables), 24 for titles.
 
-The results will be publicly presented and discussed during the final meeting week. The final presentations will be held:
+The results will be publicly presented and discussed during the final meeting week. The maximum presentation time is 15 minutes per person. The final presentations will be held:
 
-1. On January 26th (Monday) for Group 1, with January 28th as a secondary term if needed,
-2. On January 29th (Thursday) for Group 2, with January 30th as a secondary term if needed.
+- on January 26th (Monday) for Group 1, with January 28th as a secondary term if needed,
+- on January 29th (Thursday) for Group 2, with January 30th as a secondary term if needed.
 
 ## Grading system
 
